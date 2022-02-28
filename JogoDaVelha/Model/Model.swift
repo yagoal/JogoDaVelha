@@ -359,7 +359,7 @@ class Model:UIViewController {
 
     func configureConstraintsButton() {
         NSLayoutConstraint.activate([
-            button.heightAnchor.constraint(equalToConstant: 110),
+            button.heightAnchor.constraint(equalToConstant: 111),
             button2.heightAnchor.constraint(equalToConstant: 110),
             button3.heightAnchor.constraint(equalToConstant: 110),
             button4.heightAnchor.constraint(equalToConstant: 110),
