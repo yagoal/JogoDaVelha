@@ -16,6 +16,7 @@
 		2052A6E627CD65420060ECFB /* JogoDaVelhaUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2052A6E527CD65420060ECFB /* JogoDaVelhaUITests.swift */; };
 		2052A6E827CD65420060ECFB /* JogoDaVelhaUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2052A6E727CD65420060ECFB /* JogoDaVelhaUITestsLaunchTests.swift */; };
 		2052A6F627CD66FD0060ECFB /* Model.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2052A6F527CD66FD0060ECFB /* Model.swift */; };
+		20D062BF27CED0BB008FED02 /* ModelOrientado.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20D062BE27CED0BB008FED02 /* ModelOrientado.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		2052A6E527CD65420060ECFB /* JogoDaVelhaUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JogoDaVelhaUITests.swift; sourceTree = "<group>"; };
 		2052A6E727CD65420060ECFB /* JogoDaVelhaUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JogoDaVelhaUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		2052A6F527CD66FD0060ECFB /* Model.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Model.swift; sourceTree = "<group>"; };
+		20D062BE27CED0BB008FED02 /* ModelOrientado.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModelOrientado.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -131,6 +133,7 @@
 			isa = PBXGroup;
 			children = (
 				2052A6F527CD66FD0060ECFB /* Model.swift */,
+				20D062BE27CED0BB008FED02 /* ModelOrientado.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -268,6 +271,7 @@
 				2052A6C927CD65410060ECFB /* HomeViewController.swift in Sources */,
 				2052A6C527CD65410060ECFB /* AppDelegate.swift in Sources */,
 				2052A6C727CD65410060ECFB /* SceneDelegate.swift in Sources */,
+				20D062BF27CED0BB008FED02 /* ModelOrientado.swift in Sources */,
 				2052A6F627CD66FD0060ECFB /* Model.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
